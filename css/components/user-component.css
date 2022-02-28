@@ -1,8 +1,5 @@
 .user-component {
   justify-content: space-between;
-  margin-bottom: 10px;
-  padding-top: 10px;
-  border-top: var(--main-border);
 }
 
 .user-component,
@@ -16,7 +13,6 @@
   height: 70px;
   border-radius: 30px;
   margin-right: 20px;
-  object-fit: cover;
 }
 
 .user-component__title {
